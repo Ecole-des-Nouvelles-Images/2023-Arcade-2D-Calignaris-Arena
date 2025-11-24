@@ -38,4 +38,8 @@ The 3 arenas each have their own unique mechanics:
 **Gravity Arena:** Occasionally, gravity changes, forcing players to fight upside down on the ceiling.
 ![](https://github.com/Ecole-des-Nouvelles-Images/2023-Arcade-2D-Calignaris-Arena/blob/main/README-Images/GravityArena.png?raw=true)
 
+
+## Gameplay Video 
+![](https://youtu.be/TQiW5evwGzE)
+
 Itch.io Link: [Calignaris Arena](https://elktargets.itch.io/calignaris-arena)
