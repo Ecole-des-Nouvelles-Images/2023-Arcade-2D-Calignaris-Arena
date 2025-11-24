@@ -41,6 +41,15 @@ The 3 arenas each have their own unique mechanics:
 
 ## Gameplay Video 
 
-[![](https://www.youtube.com/watch?v=TQiW5evwGzE)](https://www.youtube.com/watch?v=TQiW5evwGzE)
+<a href="https://www.youtube.com/watch?v=TQiW5evwGzE">
+  <img
+    src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DTQiW5evwGzE"
+    alt="Gravity Arena"
+    title="Gravity Arena"
+    width="1120"
+    height="630"
+  />
+</a>
+
 
 Itch.io Link: [Calignaris Arena](https://elktargets.itch.io/calignaris-arena)
