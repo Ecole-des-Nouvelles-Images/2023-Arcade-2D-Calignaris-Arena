@@ -45,9 +45,8 @@ The 3 arenas each have their own unique mechanics:
 
 <a href="https://www.youtube.com/watch?v=TQiW5evwGzE">
   <img
-    src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DTQiW5evwGzE"
-    alt="Gravity Arena"
-    title="Gravity Arena"
+    src="https://img.youtube.com/vi/TQiW5evwGzE/0.jpg"
+    alt="Gravity Arena Gameplay"
     width="1120"
     height="630"
   />
