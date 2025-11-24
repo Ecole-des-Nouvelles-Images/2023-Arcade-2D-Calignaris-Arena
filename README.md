@@ -1,11 +1,13 @@
 # CALIGNARIS ARENA
-
 *"Dive into the heart of a multiplayer fighting game filled with random events and twists. The gameplay is inspired by games like Super Smash Bros and Brawlhalla."*
 
-![](https://github.com/Ecole-des-Nouvelles-Images/2023-Arcade-2D-Calignaris-Arena/blob/main/README-Images/LogoCalignaris.png?raw=true)
+<div align="center">
+  <img src="https://github.com/Ecole-des-Nouvelles-Images/2023-Arcade-2D-Calignaris-Arena/blob/main/README-Images/LogoCalignaris.png?raw=true" alt="Calignaris Arena Logo" />
+</div>
 
 The game is played by 2 to 4 players, exclusively with controllers and on PC.
 The choice of arenas is **random**, and each arena has its own mechanics.
+
 
 ## The Team
 
