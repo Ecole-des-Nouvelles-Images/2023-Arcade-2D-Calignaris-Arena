@@ -40,6 +40,6 @@ The 3 arenas each have their own unique mechanics:
 
 
 ## Gameplay Video 
-![](https://youtu.be/TQiW5evwGzE)
+[![](https://www.youtube.com/watch?v=TQiW5evwGzE)](https://www.youtube.com/watch?v=TQiW5evwGzE)
 
 Itch.io Link: [Calignaris Arena](https://elktargets.itch.io/calignaris-arena)
